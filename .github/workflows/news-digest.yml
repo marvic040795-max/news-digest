@@ -1,0 +1,56 @@
+name: Новостной дайджест
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # понедельник 00:00 UTC = 07:00 Новосибирск; темы сами решают, пора ли их опрашивать
+  workflow_dispatch:       # кнопка "Run workflow" во вкладке Actions
+    inputs:
+      only_topic:
+        description: 'id одной темы (пусто = только то, что подошло по расписанию)'
+        required: false
+        default: ''
+      force:
+        description: 'Опросить ВСЕ темы, игнорируя расписание (дорого!)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # чтобы закоммитить обновлённый data/seen_urls.json
+
+concurrency:
+  group: news-digest        # два прогона одновременно не запустятся — не заплатим дважды
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25      # страховка от зависшего прогона
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Установить зависимости
+        run: pip install -r requirements.txt
+
+      - name: Запустить дайджест
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ONLY_TOPIC: ${{ inputs.only_topic }}
+          FORCE_ALL: ${{ inputs.force }}
+        run: python scripts/news_digest.py
+
+      - name: Сохранить состояние (seen_urls.json)
+        if: always()          # даже если прогон упал: уже оплаченные темы не должны опрашиваться повторно
+        run: |
+          git config user.name "news-digest-bot"
+          git config user.email "actions@github.com"
+          git add data/seen_urls.json
+          git diff --staged --quiet && exit 0
+          git commit -m "Обновление состояния дайджеста"
+          git pull --rebase
+          git push

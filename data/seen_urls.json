@@ -1,0 +1,366 @@
+{
+  "kz_ru_transfers": {
+    "urls": [
+      "https://www.lada.kz/kazakhstan-news/146409-mgnovennye-perevody-iz-rf-v-kazakhstan-po-nomeru-telefona-novyi-servis-vtb.html",
+      "https://www.mentoday.ru/life/news/27-05-2026/rossiyane-snova-budut-poluchat-mejdunarodnye-perevody-banki-obyajut-provodit-ih-cherez-sbp/",
+      "https://ru.qaz365.kz/news/24243-perevody-mezhdu-kazakhstanom-i-rossiei-rukhnuli-v-14-raz-chto-proizoshlo/",
+      "https://plusworld.ru/articles/75011/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "vnzh_ru_kz": {
+    "urls": [
+      "http://publication.pravo.gov.ru/document/0001202607260001?index=1",
+      "https://adilet.zan.kz/rus/docs/V1500012880",
+      "https://wcr-consulting.com/blog/2025/01/31/temporary-residence-permit-in-kazakhstan/",
+      "https://ve-law.ru/blog/info/notice-residence-card-and-permit",
+      "https://immigrantinvest.com/ru/blog/notification-of-a-residence-permit/",
+      "https://www.nsk.om1.ru/news/society/438758-shtrafy_dlja_migrantov_uzhestochat_s_3_nojabrja__za_kakie_narushenija_teper_vydvorjat_iz_strany/",
+      "https://sib.fm/news/2026/10/31/v-rossii-uzhestochat-pravila-dlya-migrantov-s-1-noyabrya-",
+      "https://ves-vesti.ru/rossiya-s-noyabrya-2026-novye-pravila-dlya-kofe-masla-i-migrantov",
+      "https://riatomsk.ru/article/20261101/gost-na-kofe-i-zakon-o-migrantah-chto-izmenitsya-v-rossii-v-noyabre",
+      "https://rahmat.ru/blog/obshchestvo/chto-izmenitsya-dlya-inostranczev-i-rossiyan-v-noyabre-shtrafy-vydvorenie-i-vizy",
+      "https://dvizhenie.ru/media/9276/chto-izmenitsya-s-1-noyabrya-vazhnye-zakony-dlya-strojki",
+      "https://nn.aif.ru/society/kak-izmenitsya-zhizn-nizhegorodcev-v-noyabre-novye-zakony",
+      "https://news.rambler.ru/community/57351327-mvd-uzhestochilo-pravila-dlya-migrantov-v-rossii/",
+      "https://www.m24.ru/news/10112026/962615"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "deposits_rates_ru_kz": {
+    "urls": [
+      "https://www.vbr.ru/novosti/banki/2026/10/19/gazprombank-vklady-stavki/",
+      "https://finance.mail.ru/article/psb-povyisil-maksimalnuyu-stavku-po-vkladu-silnaya-stavka-do-145-69233515/",
+      "https://finance.rambler.ru/money/57263693-banki-podnyali-stavki-po-korotkim-vkladam/",
+      "https://rb.ru/news/vtb-povysit-stavku-po-nakopitelnomu-schetu-do-147-novye-usloviya-nachnut-dejstvovat-s-1-noyabrya/",
+      "https://finance.mail.ru/article/vtb-povyisil-stavku-po-nakopitelnomu-schetu-do-147-godovyih-69234975/",
+      "https://bizmedia.kz/2026-10-31-freedom-bank-izmenit-stavki-po-dvum-vkladam-v-noyabre/",
+      "https://finance.mail.ru/article/psb-povyisil-stavki-po-nakopitelnyim-schetam-69235982/",
+      "https://bankinform.ru/news/143642",
+      "https://kz.kursiv.media/2026-11-06/kaye-kakie-depozity-v-kazahstane-prinosyat-samyi-vysokii-dohod-i-chto-predlagayut-banki/",
+      "https://www.vbr.ru/novosti/banki/2026/11/13/vtb-povysil-stavki-13-noyabrya/",
+      "https://www.vbr.ru/novosti/banki-i-ludi/2026/11/11/vtb-povisil-stavky-po-vklady-do-20/",
+      "https://bankinform.ru/news/143666",
+      "https://bankinform.ru/news/143737",
+      "https://bizmedia.kz/2026-11-10-freedom-bank-obnovit-stavki-po-vkladu-kapital-s-15-noyabrya/",
+      "https://bizmedia.kz/2026-11-13-freedom-bank-izmenit-stavki-po-vkladam-kazahstanczev-v-noyabre/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "crypto_legal_tax_ru_kz": {
+    "urls": [
+      "https://www.garant.ru/article/2204420/",
+      "https://rb.ru/reviews/kriptovalyuta-v-rossii/",
+      "https://www.garant.ru/consult/popularnie-voprosi/2193669/",
+      "https://rb.ru/reviews/kriptovalyuta-v-rossii/",
+      "https://ria.ru/20261015/gosduma-2124726382.html"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "usd_rate_events": {
+    "urls": [
+      "https://www.zakon.kz/finansy/6528722-kurs-dollara-rezko-snizilsya--pochti-na-4-tenge.html",
+      "https://finance.mail.ru/article/rubl-zavershaet-leto-na-minimumah-hronika-oslableniya-i-faktory-davleniya-69225333/",
+      "https://finance.mail.ru/article/analitik-ocenila-perspektivy-rublya-v-sentyabre-69225123/",
+      "https://www.mentoday.ru/life/news/26-08-2026/shtormit-budet-vseh-chto-budet-s-dollarom-i-rublem-v-sentyabre/",
+      "https://www.mentoday.ru/life/news/28-08-2026/evro-uje-bolshe-100-dollar-pochti-85-chto-budet-s-rublem-v-sentyabre/",
+      "https://ura.news/articles/1053124319",
+      "https://ru.themoscowtimes.com/2026/09/03/obobschenie-rubl-dorozhaet-na-fone-trekhkratnogo-snizheniya-valyutnykh-interventsiy-a205250",
+      "https://forbes.kz/articles/na-skolko-ukrepilsya-tenge-po-itogam-avgusta_993b8a",
+      "https://smart-lab.ru/blog/1347866.php",
+      "https://www.kt.kz/rus/ekonomika/te_ge_ukrepilsya_na_2_6_v_avguste_-_natsbank_1377998786.html",
+      "https://24.kz/ru/news/economyc/789635-chto-budet-s-kursom-tenge-do-kontsa-2026-goda-prognoz-finansista",
+      "https://riamo.ru/articles/aktsenty/kurs-dollara-v-sentjabre-2026-goda-skolko-budet-stoit-dollar-i-chto-budet-s-rublem/",
+      "https://finance.mail.ru/article/alfa-bank-dal-prognoz-po-rublyu-na-sentyabr-69226289/",
+      "https://amp.rbc.ru/rbcnews/quote/07/09/2026/6a9ebd709a79470691929e2e",
+      "https://www.vbr.ru/novosti/kursy-valyut/2026/09/07/kyrs-valut-na-8-sentyabrya/",
+      "https://finance.mail.ru/article/minfin-napravit-na-pokupku-valyuty-i-zolota-556-mlrd-rublej-69225949/",
+      "https://www.vedomosti.ru/finance/news/2026/09/03/1226171-kursi-osnovnih-valyut",
+      "https://www.zakon.kz/finansy/6529945-kurs-dollara-silno-izmenitsya-natsbank-dal-prognoz-do-kontsa-goda.html",
+      "https://www.zakon.kz/finansy/6530927-kakoy-kurs-dollara-zhdut-kazakhstantsy-do-kontsa-2026-goda.html",
+      "https://finance.mail.ru/article/stavka-centrobanka-neizmenna-14-kak-reshenie-soveta-direktorov-cb-povliyaet-na-ekonomiku-69227357/",
+      "https://ru.themoscowtimes.com/2026/10/05/obobschenie-rubl-postradal-ot-mnogokratnogo-rosta-valyutnykh-interventsiy-a207827",
+      "https://finance.mail.ru/article/ekspert-rasskazal-chto-dollar-v-oktyabre-mozhet-stoit-91-69230635/",
+      "https://finance.mail.ru/article/kurs-dollara-na-mezhbankovskom-rynke-prevysil-86-rublej-69231086/",
+      "https://www.vbr.ru/novosti/kursy-valyut/2026/09/30/kurs-valut-na-1-oktyabrya/",
+      "https://ura.news/articles/1053133952",
+      "https://www.kommersant.ru/doc/9060172",
+      "https://tengrinews.kz/news/kurs-dollara-inflyatsiya-neft-natsbank-opublikoval-prognoz-610931/",
+      "https://www.nur.kz/nurfin/stock/2445837-ostanetsya-li-tenge-krepkim-do-konca-2026-goda-rasskazali-analitiki/",
+      "https://kz.kursiv.media/2026-11-02/fvfv-krepky-tenge/",
+      "https://nationalbusiness.kz/news/kurs-dollara-stabilizirovalsya-na-torgah-v-kazahstane-dd5ed8/",
+      "https://smart-lab.ru/blog/1365833.php",
+      "https://finance.mail.ru/article/rubl-nemnogo-ukrepilsya-na-planah-minfina-ob-obemah-operacij-v-ramkah-byudzhetnogo-pravila-69235838/",
+      "https://ru.themoscowtimes.com/2026/11/05/minfin-i-tsbr-narastyat-pokupki-valyuty-v-noyabre-pochti-na-chetvert-do-15-mlrd-r-v-den-a210527",
+      "https://ru.themoscowtimes.com/2026/11/02/natsbank-kazakhstana-v-noya-planiruet-prodat-valyutu-na-302-mlrd-tenge-tsb-a210282",
+      "https://www.inform.kz/ru/natsbank-soobshil-kakie-faktori-budut-vliyat-na-kurs-tenge-8a56f59c",
+      "https://ru.themoscowtimes.com/2026/11/05/rubl-vyshel-v-plyus-posle-reliza-valyutnykh-interventsiy-na-noyabr-a210537",
+      "https://lenta.ru/news/2026/11/02/tsb-podnyal-kursy-valyut/",
+      "https://www.vedomosti.ru/finance/news/2026/11/13/1245275-tsb-snizil-kurs",
+      "https://lenta.ru/news/2026/11/13/tsb-ponizil-kurs-dollara/",
+      "https://azh.kz/ru/news/view/133986"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "cb_rate_dynamics_ru_kz": {
+    "urls": [
+      "https://finance.mail.ru/article/aksakov-dopustil-chto-cb-ne-budet-snizhat-stavku-11-sentyabrya-69225678/",
+      "https://astanatimes.com/2026/09/national-bank-cuts-base-rate-to-16-25-amid-continued-disinflation/",
+      "https://www.cbr.ru/press/keypr/",
+      "https://newtimes.kz/ekonomika/223277-natsbank-v-tretii-raz-podriad-snizil-bazovuyu-stavku",
+      "https://sbercib.ru/publication/prognoz-klyuchevoi-stavki-na-2026-god",
+      "https://finance.mail.ru/article/v-rossii-ozhidayut-povysheniya-klyuchevoj-stavki-v-dekabre-69227112/",
+      "https://exclusive.kz/nacbank-rk-snizit-bazovuju-stavku-v-oktjabre-prognoz/",
+      "https://nationalbusiness.kz/news/finansisti-natsbank-v-oktyabre-snizit-bazovuyu-stavku-do-16-39e932/",
+      "https://ura.news/news/1053138440",
+      "https://bizmedia.kz/2026-10-23-naczbank-rk-snizil-bazovuyu-stavku-na-05-do-1625-godovyh/",
+      "https://bizmedia.kz/2026-10-23-v-naczbanke-rk-ne-zhdut-povysheniya-stavki/",
+      "https://finance.mail.ru/article/stavka-pod-davleniem-chto-reshit-cb-23-oktyabrya-69233644/",
+      "https://regions.ru/ekonomika/kakoj-budet-kljuchevaja-stavka-tsb-v-oktjabre-2026-goda-prognoz-eksperta-na-zasedanie",
+      "https://nationalbank.kz/ru",
+      "https://24.kz/ru/news/economyc/801378-sokhranit-ili-snizit-kak-v-natsbanke-prinimali-reshenie-po-bazovoj-stavke",
+      "https://www.cbr.ru/hd_base/keyrate/",
+      "https://finance.rambler.ru/economics/57381218-kakoy-budet-klyuchevaya-stavka-tsb-v-kontse-goda-prognoz-ekspertov/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "investment_options_ru_kz": {
+    "urls": [
+      "https://kz.kursiv.media/2026-08-13/fvfv-inostrancam-stalo-prosche-poluchit-nalogovoe-rezidentstvo-kazahstana-cherez-investicii/",
+      "https://www.vedomosti.ru/investments/news/2026/09/23/1231139-sostav-aktivov",
+      "https://www.zakon.kz/pravo/6530723-izmenilis-pravila-valyutnykh-operatsiy-v-rk.html",
+      "https://inbusiness.kz/ru/last/bolee-5-mln-investorov-i-rynok-pochti-na-100-trln-tenge-kazahstan-gotovit-finansovuyu-reformu",
+      "https://finratings.kz/news/17405-inostrantsam-khotiat-ogranichit-dostup-k-tsennym-bumagam-natsbanka-kazakhstana/",
+      "https://ru.themoscowtimes.com/2026/11/06/intervyu-natsbank-kazakhstana-v-27g-zhdet-vklyucheniya-suverennykh-bondov-v-indeks-razvivayuschikhsya-rynkov-jp-morgan-a210674",
+      "https://gurk.kz/news/glava-agentstva-predstavila-deputatam-programmu-razvitiya-ry-nka-kapitala-i-polozheniya-novogo-zakona",
+      "https://www.vedomosti.ru/finance/news/2026/11/06/1243281-perechen-kriptovalyut",
+      "https://inbusiness.kz/ru/news/kazahstan-perenapravit-dengi-valyutnyh-spekulyantov-v-byudzhet"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "regolith_scam_news": {
+    "urls": [],
+    "last_run": "2026-11-16"
+  },
+  "health_longevity": {
+    "urls": [
+      "https://sinqly.ru/research/privychki-rossiyan",
+      "https://rznonline.ru/news/health/item/proshlo-issledovanie-kakie-hobbi-snizhayut-risk-dementsii-na-23/",
+      "https://www.mentoday.ru/life/news/28-08-2026/dostatochno-2-5-chasa-uchenye-obnarujili-ustoichivuyu-svyaz-mejdu-ispolzovaniem-socialnyh-setei-i-razvitiem-depressii/",
+      "https://ria.ru/20260929/gerontolog-2120859215.html",
+      "https://poisknews.ru/zdorove/uchyonye-nashli-faktor-dolgoletiya-kotoryj-okazalsya-vazhnee-pitaniya-i-trenirovok/",
+      "https://news.mail.ru/society/72547344/",
+      "https://eadaily.com/ru/news/2026/11/02/bessmertie-sushchestvuet-v-rossii-rabotayut-nad-preparatami-dlya-dolgoletiya"
+    ],
+    "last_run": "2026-11-09"
+  },
+  "real_estate_nsk_almaty": {
+    "urls": [
+      "https://xn--h1alcedd.xn--d1aqf.xn--p1ai/news/obzor-stavok-po-ipoteke-v-bankakh-na-2-sentyabrya-2026-goda/",
+      "https://xn--h1alcedd.xn--d1aqf.xn--p1ai/news/obzor-stavok-po-ipoteke-v-bankakh-na-2-sentyabrya-2026-goda/",
+      "https://www.time.kz/articles/zloba/2026/08/26/ipotechnyj-razgon",
+      "https://www.interfax.ru/business/1118280",
+      "https://www.vbr.ru/novosti/zakonodatelstvo/2026/09/29/kommynalka--ipoteka-i-pensii--cto-izmenitsya-s-oktyabrya-2026-goda/",
+      "https://brobank.ru/stoimost-ipoteki-sentyabr-2026-goda/",
+      "https://fedpress.ru/article/3453882",
+      "https://www.cian.ru/blogs-krymskaya-ipoteka-usloviya-346004/"
+    ],
+    "last_run": "2026-11-09"
+  },
+  "auto_market_ru_kz": {
+    "urls": [
+      "https://dknews.kz/ru/dk-avto/401905-mashiny-v-kazahstane-podorozhayut-s-1-sentyabrya",
+      "https://kz.kursiv.media/2026-10-30/rmnm-changan-kia-i-toyota-skolko-stoyat-avto-s-probegom-v-kazakhstane/"
+    ],
+    "last_run": "2026-11-09"
+  },
+  "ai_market_news": {
+    "urls": [
+      "https://tproger.ru/news/otkrytye-nejroseti-avgusta-frontir-na-odnoj-videokarte-i-chto-za",
+      "https://tproger.ru/news/fable-5-1-qwen3-8-max-i-deepseek-v4-chto-brat-v-api-za-avgust",
+      "https://vc.ru/id6094569/3106891-ii-novosti-vliyayushchie-na-zarabotok-cherez-tekhnologii",
+      "https://www.ixbt.com/news/2026/09/04/432528-openai-vypustila-gpt-6-astra-i-zagovorila-o-nacale-ery-agi.html",
+      "https://pachca.com/ai-digest/2026-09-01",
+      "https://fortune.com/2026/09/08/google-deepmind-ai-predictions-9-billion-mutation-human-genome/",
+      "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "https://llmgateway.io/timeline",
+      "https://www.evertune.ai/resources/ai-model-tracker",
+      "https://seekingalpha.com/news/4650648-google-deepmind-launches-multimodal-ai-model-for-on-device-search",
+      "https://www.ai-stat.ru/news/2026-10-07-deepmind-alphaprotein-novo-enzymes",
+      "https://news.rambler.ru/tech/57202225-ii-google-deepmind-vzlomal-vechnye-zadachi-9-teorem-erdesha-pali-pered-algoritmom/",
+      "https://yandex.ru/company/news/21-09-2026-03",
+      "https://www.ai-stat.ru/",
+      "https://opper.ai/model-releases",
+      "https://opper.ai/model-releases",
+      "https://www.sostav.ru/blogs/295193/114919",
+      "https://hightech.fm/2026/10/26/openai-cheaper-smarter-model",
+      "https://www.promptzone.com/ai-model-releases",
+      "https://www.promptzone.com/ai-model-releases",
+      "https://cleus.ai/blog/new-ai-models-october-2026",
+      "https://en.wikipedia.org/wiki/Mistral_AI",
+      "https://en.wikipedia.org/wiki/ChatGPT",
+      "https://nhimg.org/llm-release-tracker",
+      "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/",
+      "https://cryptobriefing.com/openai-anthropic-reveal-new-ai-models-products-in-week-45-of-2026/",
+      "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "novosibirsk_city_news": {
+    "urls": [
+      "https://ngs.ru/text/transport/2026/08/31/76615713/",
+      "https://www.nso.ru/",
+      "https://nsk.aif.ru/society/novosibirskaya-oblast-razvivaet-infrastrukturu-vokrug-skifa",
+      "https://ngs.ru/text/transport/2026/09/26/76661287/",
+      "https://m.vn.ru/news/transport_metro/",
+      "https://ngs.ru/text/transport/2026/11/03/76736398/",
+      "https://ngs.ru/text/transport/2026/11/03/76741048/",
+      "https://nsk.aif.ru/society/v-novosibirske-v-perspektive-mogut-postroit-vtoroy-metromost-cherez-ob",
+      "https://ngs.ru/text/transport/2026/11/05/76744820/",
+      "https://ngs.ru/text/transport/2026/11/05/76744920/"
+    ],
+    "last_run": "2026-11-09"
+  },
+  "almaty_city_news": {
+    "urls": [
+      "https://tengrinews.kz/tengri-home/article/novyiy-genplan-almatyi-2026-opublikovan-rasskazyivaem-budut-4529/",
+      "https://www.akorda.kz/ru/events/astana_kazakhstan/working_trips/rabochii-vizit-v-gorod-almaty-1",
+      "https://www.zakon.kz/proisshestviia/6533818-v-almaty-izza-dozhdey-i-stroitelstva-LRT-rukhnul-asfalt.html",
+      "https://www.zakon.kz/obshestvo/6534322-v-almaty-izmenyat-skhemy-dvizheniya-chetyrekh-marshrutov-marshrutov-obshchestvennogo-transporta.html",
+      "https://24.kz/ru/news/social/797925-stroitelstvo-lrt-v-almaty-kak-izmenyatsya-marshruty-avtobusov-i-trollejbusov",
+      "https://rus.azattyq-ruhy.kz/news/118978-stantsiiu-metro-kalkaman-v-almaty-planiruiut-zapustit-k-1-dekabria",
+      "https://bes.media/news/brt-na-pauze-pochemu-v-almaty-razbirayut-vydelennuyu-polosu-na-rayymbeka/",
+      "https://www.zakon.kz/obshestvo/6537765-probivka-saina-do-bakad-uchastok-ulitsy-tsentralnaya-snova-perekroyut-v-almaty.html",
+      "https://www.zakon.kz/obshestvo/6537464-novye-vagony-Stadler-zapustyat-na-marshrutakh-iz-astany-i-almaty.html"
+    ],
+    "last_run": "2026-11-09"
+  },
+  "ru_economy_forecast": {
+    "urls": [
+      "https://www.tut-news.ru/ekonomika/analitiki-cb-ponizili-prognoz-rosta-vvp-rossii-do-05-v-2026-godu",
+      "https://finance.mail.ru/article/minfin-otchitalsya-o-deficite-byudzheta-po-itogam-yanvarya-avgusta-69226945/",
+      "https://ru.themoscowtimes.com/2026/09/28/eksklyuziv-minfin-povysil-otsenku-defitsita-byudzheta-rf-v-26g-do-32-vvp-potratit-chast-fnb-i-narastit-zaymy-a207217",
+      "https://www.vedomosti.ru/economics/articles/2026/09/24/1231438-minek-povisil-prognoz",
+      "https://ru.themoscowtimes.com/2026/10/08/tsbr-vidit-priznaki-ozhivleniya-ekonomicheskoy-aktivnosti-v-sentyabre-a208160",
+      "https://www.pnp.ru/economics/zakony-vstupayushhie-v-silu-v-oktyabre-4.html",
+      "https://sbercib.ru/publication/prognoz-klyuchevoi-stavki-na-2026-god",
+      "https://cbr.ru/statistics/ddkp/mo_br/",
+      "https://tatcenter.ru/rubrics/monitor/klyuchevaya-stavka-czb-23-oktyabrya-2026-goda-prognoz-ekspertov-pered-zasedaniem/",
+      "https://www.vedomosti.ru/economics/news/2026/11/10/1244181-defitsit-byudzheta",
+      "https://ru.themoscowtimes.com/2026/11/10/defitsit-byudzheta-rf-chut-rasshirilsya-do-23-vvp-a210939",
+      "https://abnews.ru/news/2026/11/10/minfin-podschital-deficzit-byudzheta-za-10-mesyaczev-2026-goda",
+      "https://www.vedomosti.ru/economics/news/2026/11/12/1244785-opravdannoi-visokuyu-stavku",
+      "https://finance.rambler.ru/economics/57381218-kakoy-budet-klyuchevaya-stavka-tsb-v-kontse-goda-prognoz-ekspertov/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "self_employed_risk_ru": {
+    "urls": [
+      "https://astral.ru/aj/elem/novye-pravila-dlya-samozanyatykh-s-1-yanvarya-2026-goda-chto-izmenitsya-i-kakie-zakony-vstupyat-v-si/",
+      "https://www.law.ru/article/29501-novye-ogranicheniya-v-rabote-kompaniy-s-samozanyatymi-s-1-oktyabrya-2026-goda",
+      "https://ura.news/articles/1053132358",
+      "https://riapravo.ru/novosti-prava/fns-usilivaet-kontrol-za-dohodami-samozanyatyh/",
+      "https://www.klerk.ru/blogs/beautysplit/715712/",
+      "https://www.klerk.ru/blogs/beautysplit/714539/",
+      "https://echo.msk.ru/news/obschestvo/fns-zapuskaet-proverki-samozanyatyh-sovety-po-zaschite-vashih-dohodov-ot-shtrafov/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "svo_frontline_statements": {
+    "urls": [
+      "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia",
+      "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-sept-2-2026",
+      "https://ru.themoscowtimes.com/2026/09/04/ukraina-anonsirovala-vozobnovlenie-mirnih-peregovorov-s-rossiei-v-kontse-sentyabrya-a205340",
+      "https://ura.news/articles/1053124719",
+      "https://eadaily.com/ru/news/2026/09/06/trebovaniya-rossii-po-ukraine-stanovyatsya-zhestche-bloomberg",
+      "https://www.ukrinform.net/rubric-ato",
+      "https://kyivindependent.com/",
+      "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
+      "https://www.kyivpost.com/post/83903",
+      "https://kyivindependent.com/",
+      "https://www.usnews.com/news/world/articles/2026-09-03/putin-cites-chance-of-peace-deal-but-says-ukrainian-aviation-warning-makes-it-harder",
+      "https://www.irishtimes.com/world/europe/2026/09/02/eu-and-nato-vow-to-step-up-pressure-on-russia-after-new-escalation-in-germany/",
+      "https://www.csmonitor.com/Perspectives/Essays/2026/0904/russia-nato-ukraine-attacks-us-response",
+      "https://nationalsecuritynews.com/2026/09/eu-and-nato-vow-to-step-up-pressure-on-russia-after-new-escalation-in-germany/",
+      "https://www.atlanticcouncil.org/blogs/ukrainealert/russia-is-trying-to-bully-europe-into-abandoning-ukraine/",
+      "https://foreignpolicy.com/2026/08/26/russia-ukraine-war-putin-europe-attacks-drones-sabotage-nato-hybrid-gray-zone-warfare/",
+      "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-1-2026",
+      "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-7-2026",
+      "https://ua.news/en/war-vs-rf/opriliudnena-karta-boiovikh-dii-v-ukrayini-stanom-na-2-veresnia-2026-roku",
+      "https://ua.news/en/war-vs-rf/opriliudneno-kartu-boiovikh-dii-v-ukrayini-stanom-na-3-veresnia-2026-roku",
+      "https://ua.news/en/war-vs-rf/opriliudnena-karta-boiovikh-dii-v-ukrayini-na-7-veresnia-2026-roku",
+      "https://ua.news/en/war-vs-rf/karta-boiovikh-dii-v-ukrayini-na-9-veresnia-2026-roku",
+      "https://ground.news/article/ukrainian-president-zelenskyy-a-lot-can-change-in-september",
+      "https://nato.int/en/news-and-events/articles/news/2026/09/08/nato-secretary-general-welcomes-new-support-for-ukraine-urges-nations-to-continue-to-step-up",
+      "https://www.kyivpost.com/post/83986",
+      "https://www.kyivpost.com/post/84243",
+      "https://acleddata.com/monitor/ukraine-conflict-monitor",
+      "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-09-10.htm",
+      "https://www.kyivpost.com/post/84243",
+      "https://zamin.uz/en/world/221056-i-am-ready-to-meet-putin-at-the-g20-summit-zelensky-makes-a-sensational-statement.html",
+      "https://www.euronews.com/my-europe/2026/09/11/eu-pledges-61bn-for-ukraine-including-aid-for-patriot-interceptors",
+      "https://en.defence-ua.com/news/european_allies_unveil_new_military_aid_package_for_ukraine_with_patriot_missiles_f_16_jets_and_drones-19720.html",
+      "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+      "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-7-2026",
+      "https://abcnews.com/International/witkoff-kushner-arrive-ukraine-talks-after-meeting-putin/story?id=136237115",
+      "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-welcomes-trumps-peace-envoys-but-has-no-intention-of-ending-the-war/",
+      "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-ukraine-support-as-russia-strikes-near-border",
+      "https://www.ukrinform.net/rubric-polytics/4157672-nato-military-committee-to-discuss-support-for-ukraine-at-september-meeting.html",
+      "https://www.aljazeera.com/tag/ukraine-russia-crisis/",
+      "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure",
+      "https://ura.news/articles/1053127399",
+      "https://www.kyivpost.com/post/84612",
+      "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
+      "https://www.nato.int/en/news-and-events/articles/news/2026/09/08/nato-secretary-general-welcomes-new-support-for-ukraine-urges-nations-to-continue-to-step-up",
+      "https://euromaidanpress.com/2026/09/17/eu-pledges-3-3-billion-for-ukraine/",
+      "https://eadaily.com/ru/news/2026/09/16/naihudshiy-scenariy-svyazan-ne-s-frontom-budanov-rassekretil-chto-uvazhaet-mir",
+      "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-sept-9-2026",
+      "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two",
+      "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html",
+      "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine",
+      "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-6-2026",
+      "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-7-2026",
+      "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
+      "https://meduza.io/en/feature/2026/09/24/putin-is-patient-zero-he-must-be-stopped-zelensky-tells-u-n-general-assembly",
+      "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+      "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+      "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
+      "https://www.themoscowtimes.com/2026/10/23/putin-says-renewed-peace-talks-must-focus-on-security-for-russia-ukraine-and-europe-overall-a94061",
+      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin",
+      "https://www.kwqc.com/2026/10/21/trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/?outputType=amp",
+      "https://sundayguardianlive.com/world/russia-ukraine-war-latest-news-ukraine-resumes-drone-attacks-on-russian-oil-refineries-despite-trumps-ceasefire-push-what-we-know-315657/",
+      "https://www.usnews.com/news/world/articles/2026-11-03/kremlin-confirms-trilateral-ukraine-peace-talks-in-abu-dhabi-next-week",
+      "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold",
+      "https://www.kyivpost.com/post/89449",
+      "https://www.kyivpost.com/post/89982",
+      "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates",
+      "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/",
+      "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents",
+      "https://sg.news.yahoo.com/us-hold-trilateral-talks-ukraine-230250014.html"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "house_1956_teletsentr": {
+    "urls": [],
+    "last_run": "2026-11-09"
+  },
+  "exmo_funds_recovery": {
+    "urls": [
+      "https://hashtelegraph.com/krah-exmo-sanktsii-velikobritanii-priveli-k-zakrytiyu-birzhi-i-vyyavili-nehvatku-sredstv-na-balansah/",
+      "https://exmo.com/blog/en/notifications/exmo-com-is-closing-please-initiate-withdrawal-from-your-account",
+      "https://techbuild.africa/crypto-platforms-bitmex-bitmart-2026-african-user/"
+    ],
+    "last_run": "2026-11-16"
+  },
+  "bybit_trust_sanctions": {
+    "urls": [
+      "https://remont2x2.ru/parser/bitget-i-mexc-yhodiat-iz-rossii-kakie-kriptobirji-dostypny-rossiianam.htm",
+      "https://hashtelegraph.com/bitget-i-mexc-zakryli-dveri-dlya-russkih-chto-naschyot-bybit/",
+      "https://elitetrader.ru/788885-kriptobirzhi-pokidajut-rossiju-i-kazahstan-gde-torgovat.html"
+    ],
+    "last_run": "2026-11-16"
+  }
+}
